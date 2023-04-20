@@ -43,7 +43,8 @@ ul {
 }
 
 li,
-h3 {
+h1,
+h2 {
   list-style: none;
 }
 
@@ -170,9 +171,7 @@ ul li.editMode label {
 }
 
 @media (max-width: 768px) {
-
   .aaa {
     text-align: center;
   }
-  
 }
